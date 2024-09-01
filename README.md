@@ -29,11 +29,11 @@
 * На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 [🛠️Файл Keepalived.conf](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/file/Keepalived.conf.txt)
+
 [🛠️Файл bash-script.sh](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/file/script.txt)
 
-1. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/1.jpg)
-2. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/2.jpg)
-3. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/3.jpg)
-4. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/4.jpg)
-5. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/5.jpg)
-6. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/6.jpg)
+1. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/2.jpg)
+2. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/3.jpg)
+3. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/4.jpg)
+4. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/5.jpg)
+5. ![alt text](https://github.com/sAslank/Disas-ter-recovery-Keepalived/blob/main/img/6.jpg)
