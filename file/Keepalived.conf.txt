@@ -1,0 +1,27 @@
+global_defs {
+    enable_script_security
+}
+
+vrrp_script nginx_check {
+    script "/home/ub3/axe.sh"
+    interval 5
+    user ub3
+}
+
+vrrp_instance web {
+    state MASTER
+    interface enp0s3
+    virtual_router_id 15
+    priority 255
+    advert_int 3
+    authentication {
+        auth_type PASS
+        auth_pass ub3
+    }
+    virtual_ipaddress {
+        192.168.111.15/24
+    }
+    track_script {
+        nginx_check
+    }
+}
